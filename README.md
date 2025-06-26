@@ -33,19 +33,21 @@ if all slots are booked . after confirm the booking , the customer see the total
 // Pics of Project.
 
 
-![Screenshot 2025-06-22 213338](https://github.com/user-attachments/assets/76bcb59e-1363-46dc-babc-f4394cfa2f83)
-![Screenshot 2025-06-22 213415](https://github.com/user-attachments/assets/cc37ddee-dbb0-4a7d-a7b0-3c82eb4703c5)
-![Screenshot 2025-06-22 213449](https://github.com/user-attachments/assets/4fd9db04-5328-4fd9-a9e0-2744b9c8c75e)
-![Screenshot 2025-06-22 213545](https://github.com/user-attachments/assets/240ce5cd-5dd4-4d50-ab93-4f8b20343b2d)
-![Screenshot 2025-06-22 213739](https://github.com/user-attachments/assets/78da6ce3-9630-4928-88f2-ab4e97bd1cd3)
-![Screenshot 2025-06-22 213504](https://github.com/user-attachments/assets/b68b0f91-5820-406f-974e-15a76ad01643)
-![Screenshot 2025-06-22 213846](https://github.com/user-attachments/assets/88bf7491-6509-4123-b134-1c60ea3d64f4)
-![Screenshot 2025-06-22 213821](https://github.com/user-attachments/assets/5ca38770-aa89-4d0f-b9a5-a6a102b576d6)
-![Screenshot 2025-06-22 213926](https://github.com/user-attachments/assets/57afcb9c-d9f4-4e98-8fd0-af26dc30f1d0)
-![Screenshot 2025-06-22 214011](https://github.com/user-attachments/assets/f592efd9-dc83-41ba-b4e8-74b8530d6819)
-![Screenshot 2025-06-22 213912](https://github.com/user-attachments/assets/3faae745-4b08-4c00-b7c4-cb4b5557d148)
-![Screenshot 2025-06-22 214024](https://github.com/user-attachments/assets/d113d59b-b01f-493e-8ddf-e5e5e668e450)
-![Screenshot 2025-06-22 213912](https://github.com/user-attachments/assets/90f99d13-90b6-4bca-9050-6a894af749bd)
+![Screenshot 2025-06-22 213338](https://github.com/user-attachments/assets/eb0b5c82-16c0-4ea4-96a6-b7b7d62eee53)
+![Screenshot 2025-06-22 213415](https://github.com/user-attachments/assets/6998de13-b339-41e9-9562-fb3439a20dd0)
+![Screenshot 2025-06-22 213449](https://github.com/user-attachments/assets/9ef6a4f5-4184-4880-ac7a-0f067888eece)
+![Screenshot 2025-06-22 213504](https://github.com/user-attachments/assets/b08a780f-b491-42e2-b1d4-ca13d5030034)
+![Screenshot 2025-06-22 213545](https://github.com/user-attachments/assets/d0bd1dde-064f-4e7c-86a6-2d64ec463911)
+![Screenshot 2025-06-22 213739](https://github.com/user-attachments/assets/33702193-14b8-4aec-8168-3dc681c8107e)
+![Screenshot 2025-06-22 213809](https://github.com/user-attachments/assets/c883b431-1588-4fda-9cf1-97442e88c8c9)
+![Screenshot 2025-06-22 213821](https://github.com/user-attachments/assets/665905f7-111c-4a6f-acf3-a8149f549f8d)
+![Screenshot 2025-06-22 213846](https://github.com/user-attachments/assets/6deb7b67-2d2d-47c3-9a33-abf96352726a)
+![Screenshot 2025-06-22 213912](https://github.com/user-attachments/assets/7d0f5c1a-5ce8-4cf3-8b85-e1d221445455)
+![Screenshot 2025-06-22 213926](https://github.com/user-attachments/assets/92566193-6eb5-4251-97e5-fe58819e19f0)
+![Screenshot 2025-06-22 214011](https://github.com/user-attachments/assets/3be70f41-7207-43b0-b590-ea40ae028c90)
+![Screenshot 2025-06-22 214024](https://github.com/user-attachments/assets/588c4fcd-249d-4daf-bdde-38783f0b9b85)
+
+
 
 
 
