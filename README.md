@@ -29,6 +29,9 @@ Brief OverView :
 User can login with their email-id and password. where user can book there flat,pg etc, Owner of property has right to cancel the booking of customer.
 if all slots are booked . after confirm the booking , the customer see the total price slip and also get booking confirm slip .
 
+// deploy 
+https://airbnbdeploy-frontend.onrender.com
+
 
 // Pics of Project.
 
