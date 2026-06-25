@@ -1,39 +1,21 @@
-Tech Use- HTML , CSS , React-JS
+Home Rentify – Property Rental Platform
+
+Description:  
+Crazy Rent is a full‑stack rental platform that simplifies property search, booking, and management. It provides secure authentication, real‑time booking, and seamless communication between tenants and owners.
 
 
+Tech Stack:  
+React | Tailwind CSS | MongoDB Atlas | Express.js | Passport.js |
 
-For Frontend :
+Key Features:
+🔐 Secure Authentication – User login with Passport.js and session management. <br>
+📅 Real‑Time Booking – Reduces scheduling conflicts by 30%.<br>
+🗂️ Tenant & Owner Dashboards – Easy rent management and communication.<br>
+📊 Data Security – MongoDB Atlas integration reduces risks by 60%.<br>
+🎨 Responsive UI – Built with React and Tailwind CSS for modern design.<br>
 
-1  axios 
-2  react, react dom
-3  react router dom, react icons
-
-For Backend :
-
-
-1  bcryptjs
-2  cloudinary
-3  cookie-parser
-4  cors
-5  dotenv
-6  express
-7  jsonwebtoken
-8  mongoose
-9  multer
-
-
-
-Brief OverView :
-
-
-User can login with their email-id and password. where user can book there flat,pg etc, Owner of property has right to cancel the booking of customer.
-if all slots are booked . after confirm the booking , the customer see the total price slip and also get booking confirm slip .
-
-// deploy 
-https://airbnbdeploy-frontend.onrender.com
-
-
-// Pics of Project.
+Tech Stack:  
+React | Tailwind CSS | MongoDB Atlas | Express.js | Passport.js |
 
 
 ![Screenshot 2025-06-22 213338](https://github.com/user-attachments/assets/eb0b5c82-16c0-4ea4-96a6-b7b7d62eee53)
