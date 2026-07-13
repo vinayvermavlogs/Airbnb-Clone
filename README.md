@@ -1,7 +1,7 @@
-Home Rentify – Property Rental Platform
+Prime Stay – Property Rental Platform
 
 Description:  
-Crazy Rent is a full‑stack rental platform that simplifies property search, booking, and management. It provides secure authentication, real‑time booking, and seamless communication between tenants and owners.
+Prime Stay is a full‑stack rental platform that simplifies property search, booking, and management. It provides secure authentication, real‑time booking, and seamless communication between tenants and owners.
 
 
 Tech Stack:  
